@@ -6,7 +6,7 @@ import './App.css'
 function App() {
 
   return (
-    <div className="text-3xl font-bold underline max-h-full bg-dimBlue">
+    <div className="max-h-full bg-dimBlue ">
       <Navbar />
     </div>
   )
