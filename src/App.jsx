@@ -1,11 +1,11 @@
-import { useState } from 'react'
+import React from 'react'
 import reactLogo from './assets/react.svg'
 import Navbar from './components/Navbar'
 import './App.css'
 
 function App() {
   return (
-    <div className="max-h-full bg-dimBlue ">
+    <div className="max-h-full bg-dimBlue">
       <Navbar />
     </div>
   )
